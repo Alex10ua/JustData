@@ -1,3 +1,13 @@
-[
-{"Title": ["\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0439 \u0442\u0435\u043b\u0435\u0444\u043e\u043d Xiaomi Mi 9 "], "MemorySize": ["64\u00a0\u0413\u0411"], "LowPrice": ["11\u00a0799", "11\u00a0799"], "HighPrice": ["13\u00a0999", "13\u00a0999"], "CurrencyofPrice": ["\u0433\u0440\u043d.", "\u0433\u0440\u043d."], "Shop1_array": ["13\u00a0999", "12\u00a0580", "13\u00a0429"], "Shop2_array": ["12\u00a0580"], "Shop3_array": ["13\u00a0429"], "Shop4_array": ["13\u00a0999", "13\u00a0999"], "Shop5_array": ["13\u00a0999"]}
-]
+
+{
+  "Title": [" Xiaomi Mi 9 "], 
+  "MemorySize": ["64"], 
+  "LowPrice": ["11799"], 
+  "HighPrice": ["13999"], 
+  "CurrencyofPrice": ["\u0433\u0440\u043d."], 
+  "Shop1_array": ["13999"], 
+  "Shop2_array": ["12580"], 
+  "Shop3_array": ["13429"], 
+  "Shop4_array": ["13999"], 
+  "Shop5_array": ["13999"]
+}
